@@ -46,6 +46,7 @@ ul li a{
 
 .any{
     color:#21B573;
+    font-size: 48px;
 }
 
 .content h5{
@@ -147,4 +148,42 @@ span{
     margin-top: 75px;
     font-size: 18px;
     font-weight: 600;
+}
+
+.contact{
+    background-color: #282531;
+}
+
+.contact{
+    margin-top: 80px;
+}
+
+.contact-info{
+    color: #fff;
+}
+
+.all h6{
+    margin-top: 160px;
+    margin-bottom: 80px;
+}
+
+.crs{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.terms{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.useful{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+footer{
+    background-color: #282531;
+    color: #fff;
+    text-align: center
 }
